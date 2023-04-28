@@ -1,0 +1,20 @@
+.star:after{
+    content:"*";
+    color:red;
+}
+
+.radio{
+    text-align: center;
+}
+.colhead{
+    text-align: center;
+    font-weight: 400;
+    
+}
+.rh{
+    justify-content: left;
+    font-weight: 400;
+    width: 180px;
+}
+
+
